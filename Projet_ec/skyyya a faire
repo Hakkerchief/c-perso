@@ -1,0 +1,5 @@
+-> Ecran.initEcran() qui initialise les positions des listes de pixels
+=== j'ai créé la classe point qui contient une position et une couleur
+    -> refaire les tests unitaires pour respecter la syntaxe du coup ;<
+-> Remplacer tous les std::vector<int> par des Point et des valarray
+    -> quasiment tout déjà fait mais il doit en rester

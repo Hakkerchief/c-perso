@@ -1,0 +1,8 @@
+rapport 5 pages images incluses choix de designe autocritiue (ce qui est pas bien ce qui est a améliorer) les bonus qu'on a faits et comment ils sont implémentées fuck
+
+4 calcul de l'image sans réflxion à faire en 1er
+
+test unitaires => 4-5 cas
+	en faire un fichier séparé ("attendu = X, obtenu = X")
+	
+diagramme dactivité = déroulement du code un peu
